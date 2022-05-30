@@ -9,7 +9,7 @@ This tool is designed for everyone in the cybersecurity field who gets tired of 
 # Working
 This tools performs 4 commands
 
-### 1. Ping Scan - It checks whether the host is alive. 
+### 1. Ping Scan - It checks whether the host is alive or not. 
 >```Command: ping -c 3 [host or IP]```
 
 ### 2. Whois Scan
