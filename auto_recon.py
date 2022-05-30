@@ -76,7 +76,7 @@ def nmap_scan(nmap_ip):             #nmap_scan function
 print("---------------------------------------------------------------------------------")
 banner = pyfiglet.figlet_format("A SIMPLE RECON TOOL :-)")
 print(colored(banner, "green"))
-print(colored("- cyberpands","grey"))
+print(colored("- cyberpands","red"))
 print("---------------------------------------------------------------------------------")
 
 #accepting host input from user and calling ping function
