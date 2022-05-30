@@ -3,7 +3,7 @@ A simple automated reconissance tool configured in python by cyberpands.
 
 ---
 # Description
-This programme is designed for everyone in the cybersecurity field who gets tired of inputting commands every now and then. With the use of ping, whois, dig, traceroute, and nmap aggressive scan, this tools will auto recon on the host. I have been using this fantastic cheat-sheet on [technoctf.in](https://technoctf.in/) offered by Archit Vats for my reference.
+This tool is designed for everyone in the cybersecurity field who gets tired of inputting commands every now and then. With the use of ping, whois, dig, traceroute, and nmap aggressive scan, this tools will auto recon on the host. I have been using this fantastic cheat-sheet on [technoctf.in](https://technoctf.in/) offered by Archit Vats for my reference.
 
 ---
 # Working
