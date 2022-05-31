@@ -21,7 +21,7 @@ This tools performs 4 commands
 ### 4. Traceroute Scan
 >```Command: traceroute [host or IP]```
 
-### 4. Nmap Scan
+### 5. Nmap Scan
 >```Command: nmap -A --script=vuln [host or IP]```
 ---
 # Requirements
